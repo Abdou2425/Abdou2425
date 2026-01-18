@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fourth-year Computer Security Security student with hands-on experience in front-end web development and junior backend
+Fourth-year Computer Security  student with hands-on experience in front-end web development and junior backend
 developer, CCNA certified , Passionate about solving problems and finding bugs,
 Aiming to contribute to real-world projects within the networking and cybersecurity fields.
 
