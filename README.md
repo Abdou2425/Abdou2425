@@ -1,7 +1,5 @@
 # 💫 About Me:
-Fourth-year Computer Security  student with hands-on experience in front-end web development and junior backend
-developer, CCNA certified , Passionate about solving problems and finding bugs,
-Aiming to contribute to real-world projects within the networking and cybersecurity fields.
+Cybersecurity student with a strong passion for the Blue Team and defensive security. Solid skills in network security and intrusion detection, demonstrated notably through the development of an AI-based Intrusion Detection System (IDS/AI). CCNA certified and looking for an internship to contribute to proactive defense projects and strengthen my skills within a technical team.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahmane-abed-a71a78370) 
